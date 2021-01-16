@@ -27,17 +27,17 @@ USAGE
 ______________________________________________________________________________________
 First run the program. You should see the board. Click on the card icon \
 <p align="center">
-![Image](images/magnifier.bmp)
+<img src="images/magnifier.bmp" />
 </p>
 After that you are taken to the menu where you will be able to select the different 
 things you can build\
 <p align="center">
-![Image](images/building_costs.bmp)
+<img src="images/building_costs.bmp" />
 </p>
 After you are done your turn click the next turn button so your opponent can 
 finish theirs \
 <p align="center">
-![Image](images/next_turn.JPG)
+<img src="images/next_turn.JPG" />
 </p>
 The first person to get to 10 victory points wins the game!
 ______________________________________________________________________________________
