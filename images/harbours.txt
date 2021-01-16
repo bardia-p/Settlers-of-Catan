@@ -1,0 +1,6 @@
+grain
+ore
+brick
+wood
+wool
+anything
