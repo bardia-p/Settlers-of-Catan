@@ -25,16 +25,16 @@ ________________________________________________________________________________
  
 USAGE
 ______________________________________________________________________________________
-First run the program. You should see the board. Click on the card icon 
+First run the program. You should see the board. Click on the card icon \
 ![Image](images/magnifier.bmp)
 
 After that you are taken to the menu where you will be able to select the different 
-things you can build
+things you can build\
 ![Image](images/building_costs.bmp)
 
 After you are done your turn click the next turn button so your opponent can 
-finish theirs 
-![Image](images/next_turn.bmp)
+finish theirs \
+![Image](images/next_turn.jpg)
 
 The first person to get to 10 victory points wins the game!
 ______________________________________________________________________________________
