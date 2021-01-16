@@ -34,7 +34,7 @@ things you can build\
 
 After you are done your turn click the next turn button so your opponent can 
 finish theirs \
-![Image](images/next_turn.jpg)
+![Image](images/next_turn.JPG)
 
 The first person to get to 10 victory points wins the game!
 ______________________________________________________________________________________
